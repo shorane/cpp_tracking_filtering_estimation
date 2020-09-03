@@ -6,4 +6,4 @@ Each project in this repository will have its own readme.md file, explaining the
 
 Methods implemented till data:
 
-1. Normalization for estimating best fit for raw data.
+1. Method of least squares and normal equations
