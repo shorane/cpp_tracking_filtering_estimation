@@ -13,15 +13,20 @@
 The resulting fit obtained from each of the 5 models is as shown below:
 
 ### Linear fit:
-<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/linear_plot.png" width="300" height="300"/>
+<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/linear_plot.png" width="400" height="300"/>
+
 ### Exponential fit:
-<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/Exp_plot.png" width="300" height="300"/>
+<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/Exp_plot.png" width="400" height="300"/>
+
 ### Exponential fit 2:
-<img src = "https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/x_Exp_plot.png" width="300" height="300"/>
+<img src = "https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/x_Exp_plot.png" width="400" height="300"/>
+
 ### Logarithmic fit:
-<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/log_plot.png"  width="300" height="300"/>
+<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/log_plot.png"  width="400" height="300"/>
+
 ### Inverse fit: 
-<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/inv_plot.png"  width="300" height="300"/>
+<img src="https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/inv_plot.png"  width="400" height="300"/>
+
 ## Best fit
 The results show that the best models for fitting the data are the logarithmic model, linear model and the inverse model.
 
