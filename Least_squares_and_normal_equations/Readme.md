@@ -5,9 +5,9 @@
 
 2. The "model_fitting.cpp" script uses the open source Eigen package for matrix manipulation, and generates txt files containing data that can be plotted using any tool like gnu-plot, matplotlib, etc. These txt files are located in the "output_data" folder.
 
-3. Five different models are applied for fitting the same data. This sample data can be found in the "input_data" folder.
+3. Five different models are applied for fitting the same data. This sample data can be found in the [input_data](/input_data) folder.
 
-4. Result plots were generated using the output data in matlab, the plotting script can be found in the "plotting_script" folder
+4. Result plots were generated using the output data in matlab, the plotting script can be found in the [plotting_script](/plotting_script) folder
 
 ## Result plots
 The resulting fit obtained from each of the 5 models is as shown below:
