@@ -12,7 +12,8 @@
 ## Result plots
 The resulting fit obtained from each of the 5 models is as shown below:
 
-<insert images here>
+### Linear fit:
+![Linear fit](https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Least_squares_and_normal_equations/Result_plots/linear_plot.emf)
 
 ## Best fit
 The results show that the best models for fitting the data are the logarithmic model, linear model and the inverse model.
