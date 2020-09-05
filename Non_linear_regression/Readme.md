@@ -4,7 +4,7 @@
 1. This folder contains the file [NonLinearRegression.cpp](NonLinearRegression.cpp) that reads the data mentioned in one of the dataset files located in the [input_datasets](/input_datasets/) folder and tries to fit the model y = ln(ax) to the data, by iteratively determining a suitable value for a. 
 
 
-2. More details about non-linear regression can be found [here]().
+2. More details about non-linear regression can be found [here](https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Non_linear_regression/theory/Non_Linear_Regression_theory.pdf).
 
 3. The c++ script uses the open source [Eigen package](http://eigen.tuxfamily.org/index.php?title=Main_Page) for matrix manipulation, and generates txt files containing data that can be plotted using any tool like gnu-plot, matplotlib, etc. These txt files are located in the [result_data](https://github.com/shorane/cpp_tracking_filtering_estimation/tree/master/Non_linear_regression/result_data) folder.
 
