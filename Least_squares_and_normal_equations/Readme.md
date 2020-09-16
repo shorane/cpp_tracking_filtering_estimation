@@ -31,6 +31,3 @@ The resulting fit obtained from each of the 5 models is as shown below:
 
 ## Best fit
 The results show that the best models for fitting the data are the logarithmic model, linear model and the inverse model.
-
-## Same implementation in Matlab
-The same implementation has also been done in matlab and the corresponding matlab script can be found in the [matlab](https://github.com/shorane/cpp_tracking_filtering_estimation/tree/master/Least_squares_and_normal_equations/matlab) folder.
