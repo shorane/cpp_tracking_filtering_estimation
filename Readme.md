@@ -12,4 +12,4 @@ Methods implemented till date:
 
 2. [Non-Linear Regression](https://github.com/shorane/cpp_tracking_filtering_estimation/tree/master/Non_linear_regression)
 
-
+<img src = "https://github.com/shorane/cpp_tracking_filtering_estimation/blob/master/Non_linear_regression/result_images/C.PNG"/>
